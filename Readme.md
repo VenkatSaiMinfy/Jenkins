@@ -1,8 +1,4 @@
-##  Jenkins Dashboard
 
-This screenshot shows the main Jenkins dashboard, including job listings, build queue, and executor status.
-
-![Jenkins Dashboard](DashBoard.png)
 
 ## First Pipeline Execution
 
@@ -31,6 +27,13 @@ This updated view includes the new "Cleanup" stage in the pipeline.
 Logs from the second pipeline execution including the Cleanup stage.
 
 ![Second Console Output](2nd_console_output.png)
+
+
+##  Jenkins Dashboard
+
+This screenshot shows the main Jenkins dashboard, including job listings, build queue, and executor status.
+
+![Jenkins Dashboard](DashBoard.png)
 
 
 ##  Summary
